@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 main() {
-printf("Mr.Shark\n");
+printf("鯊魚先生\n");
 }
